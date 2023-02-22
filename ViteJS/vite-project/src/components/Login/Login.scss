@@ -1,0 +1,16 @@
+.login-container {
+  display: flex !important;
+  justify-content: center;
+  flex-direction: column;
+  .login-title {
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 50px;
+  }
+}
+.errors {
+  color: red;
+}
+.ant-form-item-control-input {
+  margin-left: 10px;
+}
